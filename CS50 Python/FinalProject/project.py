@@ -1,4 +1,4 @@
-import sys
+
 import csv
 
 def main():
